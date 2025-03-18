@@ -2,7 +2,7 @@
   "name": "router",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/mayurkhatate/React_Host",
+  "homepage": "https://github.com/mayurkhatate/React_host",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
